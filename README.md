@@ -3,7 +3,7 @@
 This is a simple implementation of the classic Tic-tac-toe game using C++ and the graphics.h library.
 
 ## Description
-This game is intended for local multiplayer for 2 players on a single device, such as a computer or laptop. It does not include an option for playing against the computer.
+This implementation of the Tic-tac-toe game is intended for local multiplayer for 2 players on a single device, such as a computer or laptop. It does not include an option for playing against the computer.
 After launching the game, you'll first encounter the menu, where you'll have the option to select the board size, ranging from 3 X 3 to 8 X 8.
 In each game, X starts first, then O follows.
 The player who aligns a sequence of X's or O's matching the size of the board in a column, row, or diagonal wins.
